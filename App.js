@@ -1,9 +1,4 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow
+/* Home Page do App
  */
 
 import React, {Fragment} from 'react';
@@ -17,6 +12,8 @@ const App = () => {
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
       <Text>Hello, world!</Text>
       <Text>O mundo já não é mais o mesmo.</Text>
+      <Text>Está tudo interligado.</Text>
+      <Text>Isso é fantástico.</Text>
     </View>
   );
 };
